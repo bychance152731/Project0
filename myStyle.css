@@ -1,0 +1,119 @@
+@media only screen and (max-width: 768px)
+ {
+  /* For mobile phones: */
+  .bio{background-color:green;}
+  #languageSectionHeader{background-color:green;order:1;text-align:center;width:100%;}
+  #imageGroup{order:2;background-color:red;}
+ }
+
+
+h1 {
+ color: black;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+
+.bio 
+{
+	text-align: center;
+	margin-bottom:75px;
+}
+
+#link
+{
+	padding: 2px;
+	text-decoration: underline;
+}
+
+ 
+
+.divArea
+{
+	margin-bottom:100px;
+	
+}
+
+#countrySectionHeader
+{	
+	font:150% Times New Roman;
+	margin-top:auto;
+	margin-bottom:auto;
+	margin-left:25px;
+	width: 30%;
+		
+}
+
+#languageSectionHeader
+{
+	font:150% Times New Roman;
+	margin-left:25px;
+	width: 30%;
+	
+}
+
+#courseSectionHeader
+{	
+	font:150% Times New Roman;
+	margin-top:auto;
+	margin-bottom:auto;
+	margin-left:25px;
+	width: 30%;
+}
+
+
+.image2
+{
+	margin-left:50px;
+	width:120px;
+	height:150px;
+
+}
+
+.image1
+{
+	margin-left:100px;
+	width:25%;
+	height:100px;
+	
+	
+}
+
+#imageGroup
+{
+	margin-right: 70px;
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#countryImage
+{
+	display:table-cell;
+	margin-left:auto;
+	margin-right:auto;
+	width: 50%;
+	height: 255px;
+}
+
+
+
+#japanInfo
+{
+	margin-left:40%;
+	width:50%; 
+}
+
+li
+{
+	font:75% Courier New;
+}
+
+
+table,th, td
+	{
+		border: 1px solid black;
+		border-collapse: collapse;
+		text-align: center;
+		padding: 15px
+	}
+			
